@@ -1,0 +1,3 @@
+- Hi, Im Shohan Rahman
+- Im interested in Programming and Linux
+- Im currently learning Programming
